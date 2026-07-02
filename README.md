@@ -37,9 +37,9 @@ already filled in. See `scripts/README.md` for full usage and options.
 
 ## 📊 Progress
 
-| # | Problem | Difficulty | Platform | Solution | Notes |
-|---|---------|------------|----------|----------|-------|
-| — | _(add rows as you solve problems)_ | | | | |
+| # | Problem | Difficulty | Platform | Solution                                  | Notes         |
+|---|---------|------------|----------|-------------------------------------------|---------------|
+| 1 | Two Sum | Easy       | LeetCode | [Solution](./leetcode/easy/0001-two-sum/) | Hashmap, O(n) |
 
 > Tip: keep this table updated as you go — it doubles as a portfolio view of your work.
 
@@ -54,9 +54,6 @@ already filled in. See `scripts/README.md` for full usage and options.
    git add leetcode/easy/0001-two-sum
    git commit -m "Add: Two Sum (LeetCode #1) - O(n) hashmap solution"
    ```
-
-Committing per-problem (rather than in batches) keeps a meaningful, consistent history on
-your GitHub contribution graph.
 
 ## 🔒 Notes on code quality
 
